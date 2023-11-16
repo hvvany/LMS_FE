@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <h1>Hvvany LMS</h1>
+    <router-link to="/">홈화면</router-link>
   </nav>
   <router-view/>
 </template>
